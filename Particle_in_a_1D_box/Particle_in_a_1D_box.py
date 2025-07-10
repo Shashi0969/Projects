@@ -236,7 +236,7 @@ def Animate3D():
     else:
         print("Not saving the animation, just showing it.")
         plt.show() # Show the simulation
-    # Call the function to display the required simulation
+# Call the function to display the required simulation
 while True:
     clear_screen()
     p = int(input("Enter '1' to start and '0' to terminate : "))
